@@ -2,8 +2,10 @@
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=F9BC2FFF&background=291B3E00&center=true&multiline=true&width=650&height=55&lines=RAVEESHA+LOKUGE)](https://git.io/typing-svg)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8963FF&center=true&random=false&width=660&lines=Undergraduate+Student+at;General+Sir+John+Kotelawala+Defence+University)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8963FF&center=true&random=false&width=660&lines=Undergraduate+Student+at;General+Sir+John+Kotelawala+Defence+University)](https://git.io/typing-svg)&nbsp;&nbsp;
+
+  ![kdu-removebg-preview](https://github.com/RaveeshaLokuge/RaveeshaLokuge/assets/120384683/2c980ea4-b45a-4093-aa94-ffefa4eb7df2)
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaveeshaLokuge&theme=vision-friendly-dark)](https://git.io/streak-stats)&nbsp;&nbsp;
 
 <br>
